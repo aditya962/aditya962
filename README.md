@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I'm Aditya Srivastava
 <!--
 **aditya962/aditya962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aditya962&count_private=true&show_icons=true&include_all_commits=true)
+[![An image of @aditya962's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya962)](https://holopin.io/@aditya962)
 -->
+
