@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Aditya Srivastava
-[![trophy](https://github-profile-trophy.vercel.app/?username=aditya962&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya962" alt="aditya962" /></a> </p>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya962&show_icons=true&locale=en&layout=compact" alt="aditya962" /></p>
